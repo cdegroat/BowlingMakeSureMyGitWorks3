@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingMakeSureMyGitWorks3", "BowlingMakeSureMyGitWorks3\BowlingMakeSureMyGitWorks3.csproj", "{BA2182B7-F18C-4AAE-AAF3-6AE8C1C12B0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA2182B7-F18C-4AAE-AAF3-6AE8C1C12B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2182B7-F18C-4AAE-AAF3-6AE8C1C12B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2182B7-F18C-4AAE-AAF3-6AE8C1C12B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2182B7-F18C-4AAE-AAF3-6AE8C1C12B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0560682A-45F9-4F5C-8E83-571748DC1DC4}
+	EndGlobalSection
+EndGlobal
